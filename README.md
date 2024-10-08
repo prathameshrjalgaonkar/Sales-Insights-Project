@@ -24,6 +24,6 @@ The Sales Insights Project focuses on delivering valuable sales insights to impr
 - **Data Visualization**: Providing intuitive and user-friendly dashboards to enable strategic decisions.
 
 ## Visual Overview
-The project included interactive dashboards such as sales trends, KPIs, and other key performance insights that improved sales strategy formulation. Below is an example of the dashboard visualization using **Microsoft Power BI**:
+The project included interactive dashboards such as sales trends, KPIs, and other key performance insights that improved sales strategy formulation. Below is a Screenshot of the dashboard visualization using **Microsoft Power BI**:
 
 ![Screenshot 2024-10-07 201148](https://github.com/user-attachments/assets/384952e2-6a42-4a09-b54f-a4019a161be7)
