@@ -6,7 +6,7 @@ The Sales Insights Project focuses on delivering valuable sales insights to impr
 ## Key Contributions
 - **Dynamic Dashboard Development:**
     - Designed and deployed a dynamic sales dashboard in **Power BI**, directly connected to a **MySQL** database.
-    - Provided actionable sales insights specific to **Atliq Hardware**, which led to a **30% increase in operational efficiency**.
+    - Provided actionable sales insights specific to **Atliq Hardware**, which led to a ** increase in operational efficiency**.
   
 - **ETL Operations:**
     - Performed **ETL (Extract, Transform, Load)** processes using Power BI to clean and integrate comprehensive datasets.
@@ -14,7 +14,7 @@ The Sales Insights Project focuses on delivering valuable sales insights to impr
   
 - **Cloud Deployment and Collaboration:**
     - Led the cloud deployment of sales reports and dashboards, allowing seamless access for stakeholders.
-    - Facilitated collaboration on sales strategies through improved data visualization and access, which enhanced decision-making and increased collaboration efficiency by **40%**.
+    - Facilitated collaboration on sales strategies through improved data visualization and access, which enhanced decision-making and increased collaboration efficiency.
 
 ## Skills Utilized
 - **MySQL**: Database management and querying.
